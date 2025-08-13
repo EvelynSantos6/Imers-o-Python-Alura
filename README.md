@@ -40,9 +40,17 @@ Olá! Me chamo **Evelyn**, sou estudante e apaixonada por tecnologia. Participei
 ## 📁 Estrutura do Repositório
 
 ```bash
-📦 imersao-dados-python
- ┣ 📁 aula1_python_basico/
- ┣ 📁 aula2_pandas/
- ┣ 📁 aula3_visualizacao/
- ┣ 📁 aula4_projeto_final/
- ┗ 📄 README.md
+📦 Imersao-Python-Alura-2025
+ ┣ 📂 dados/
+ ┃  ┗ 📄 dados-imersao-final.csv
+ ┣ 📂 aula_1_introducao_ao_python/
+ ┃  ┗ 📄 Aula_01.py
+ ┣ 📂 aula_2_pandas/
+ ┃  ┗ 📄 Aula_02.py
+ ┣ 📂 aula_3_visualizacao/
+ ┃  ┗ 📄 Aula_03.py
+ ┣ 📂 aula_4_streamlit/
+ ┃  ┗ 📄 Aula_04.py
+ ┣ 📄 .gitignore
+ ┣ 📄 README.md
+ ┗ 📄 requirements.txt
